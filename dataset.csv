@@ -1,0 +1,62 @@
+data,cliente,produto,categoria,cidade,quantidade,preco,vendedor
+2026-01-03,Cliente 02,Headset,Áudio,Rio de Janeiro,5,396.56,Diego
+2026-01-07,Cliente 16,Monitor,Monitores,Curitiba,1,1493.46,Diego
+2026-01-11,Cliente 14,Mouse,Periféricos,Curitiba,3,110.03,Ana
+2026-01-15,Cliente 09,Headset,Áudio,Rio de Janeiro,4,383.43,Diego
+2026-01-19,Cliente 09,Teclado,Periféricos,Belo Horizonte,3,236.16,Ana
+2026-01-23,Cliente 18,Mouse,Periféricos,,3,119.86,Carla
+2026-01-27,Cliente 02,Headset,Áudio,São Paulo,1,376.73,Bruno
+2026-01-31,Cliente 14,Mouse,Periféricos,Belo Horizonte,2,111.47,Bruno
+2026-02-04,Cliente 05,Notebook,Computadores,Curitiba,2,3866.86,Ana
+2026-02-08,Cliente 02,Teclado,Periféricos,Curitiba,2,264.56,Diego
+2026-02-12,Cliente 11,Monitor,Monitores,Curitiba,4,1354.47,Bruno
+2026-02-16,Cliente 20,Notebook,Computadores,Curitiba,4,,Carla
+2026-02-20,Cliente 15,Teclado,Periféricos,São Paulo,4,264.22,Bruno
+2026-02-24,Cliente 16,Notebook,Computadores,Curitiba,2,4071.37,Bruno
+2026-02-28,Cliente 15,Monitor,Monitores,Belo Horizonte,5,1476.37,Diego
+2026-03-04,Cliente 16,Teclado,Periféricos,Rio de Janeiro,1,235.19,Ana
+2026-03-08,Cliente 11,Mouse,Periféricos,Curitiba,2,131.01,Carla
+2026-03-12,Cliente 03,Mouse,Periféricos,São Paulo,1,119.58,Carla
+2026-03-16,Cliente 17,Teclado,Periféricos,Rio de Janeiro,2,274.7,Bruno
+2026-03-20,Cliente 10,Monitor,Monitores,,5,1328.99,Bruno
+2026-03-24,Cliente 11,Headset,Áudio,Belo Horizonte,2,388.96,Ana
+2026-03-28,Cliente 08,Teclado,Periféricos,São Paulo,5,259.52,Diego
+2026-04-01,Cliente 04,Notebook,Computadores,Rio de Janeiro,3,4567.77,Diego
+2026-04-05,Cliente 19,Headset,Áudio,Rio de Janeiro,4,395.59,Ana
+2026-04-09,Cliente 16,Monitor,Monitores,Belo Horizonte,3,1442.31,Ana
+2026-04-13,Cliente 13,Monitor,Monitores,Belo Horizonte,2,1382.42,Ana
+2026-04-17,Cliente 09,Notebook,Computadores,São Paulo,4,4058.52,Ana
+2026-04-21,Cliente 17,Mouse,Periféricos,São Paulo,5,120.5,Diego
+2026-04-25,Cliente 11,Monitor,Monitores,Belo Horizonte,2,1432.28,Diego
+2026-04-29,Cliente 09,Headset,Áudio,São Paulo,4,352.69,Ana
+2026-05-03,Cliente 10,Teclado,Periféricos,Belo Horizonte,2,276.97,Carla
+2026-05-07,Cliente 05,Headset,Áudio,Rio de Janeiro,4,420.9,Ana
+2026-05-11,Cliente 02,Headset,Áudio,Belo Horizonte,4,361.94,Bruno
+2026-05-15,Cliente 12,Mouse,Periféricos,Rio de Janeiro,3,,Carla
+2026-05-19,Cliente 18,Headset,Áudio,Rio de Janeiro,4,359.47,Carla
+2026-05-23,Cliente 02,Mouse,Periféricos,Curitiba,2,124.13,Diego
+2026-05-27,Cliente 18,Mouse,Periféricos,São Paulo,1,114.75,Ana
+2026-05-31,Cliente 17,Monitor,Monitores,Curitiba,1,1496.23,Ana
+2026-06-04,Cliente 06,Monitor,Monitores,Curitiba,3,1515.83,Bruno
+2026-06-08,Cliente 13,Notebook,Computadores,Belo Horizonte,5,4425.66,Bruno
+2026-06-12,Cliente 04,Headset,Áudio,Belo Horizonte,1,359.4,Diego
+2026-06-16,Cliente 16,Notebook,Computadores,,3,4549.45,Diego
+2026-06-20,Cliente 15,Headset,Áudio,Rio de Janeiro,4,368.96,Bruno
+2026-06-24,Cliente 08,Notebook,Computadores,Rio de Janeiro,2,3811.43,Diego
+2026-06-28,Cliente 02,Monitor,Monitores,Rio de Janeiro,4,1465.91,Bruno
+2026-07-02,Cliente 20,Monitor,Monitores,Belo Horizonte,2,1412.57,Carla
+2026-07-06,Cliente 09,Monitor,Monitores,Rio de Janeiro,5,1545.64,Bruno
+2026-07-10,Cliente 18,Monitor,Monitores,São Paulo,3,1539.39,Ana
+2026-07-14,Cliente 14,Teclado,Periféricos,Rio de Janeiro,3,250.49,Diego
+2026-07-18,Cliente 16,Monitor,Monitores,São Paulo,1,1581.34,Ana
+2026-07-22,Cliente 16,Mouse,Periféricos,São Paulo,3,114.98,Ana
+2026-07-26,Cliente 04,Monitor,Monitores,São Paulo,5,1454.37,Ana
+2026-07-30,Cliente 08,Teclado,Periféricos,Belo Horizonte,1,247.31,Bruno
+2026-08-03,Cliente 10,Teclado,Periféricos,Curitiba,4,282.67,Ana
+2026-08-07,Cliente 10,Teclado,Periféricos,Curitiba,3,242.56,Ana
+2026-08-11,Cliente 01,Teclado,Periféricos,Rio de Janeiro,4,236.34,Carla
+2026-08-15,Cliente 11,Notebook,Computadores,Curitiba,4,4145.48,Diego
+2026-08-19,Cliente 04,Notebook,Computadores,São Paulo,3,4613.6,Ana
+2026-08-23,Cliente 15,Mouse,Periféricos,Belo Horizonte,2,129.4,Bruno
+2026-08-27,Cliente 14,Notebook,Computadores,Curitiba,4,4408.83,Carla
+2026-01-31,Cliente 14,Mouse,Periféricos,Belo Horizonte,2,111.47,Bruno
